@@ -1,0 +1,36 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class exercicioIniciante04 {
+
+	public static void main(String[] args) {
+		// EXERCÍCIO 4
+		// Fazer um programa que leia (Scanner)
+		// 		o número de um funcionário (num),
+		// 		seu número de horas trabalhadas (horasTrabalhadas),
+		//		o valor que recebe por hora e (valorHora)
+		//		calcula o salário desse funcionário. (salario)
+		// A seguir, mostre o número e o salário do funcionário, com duas casas decimais. (Locale %.2f%n)
+		
+		Locale.setDefault(Locale.US);;
+		Scanner sc = new Scanner(System.in);
+		
+		int matricula, horasTrabalhadas;
+		double valorHora, salario;
+		
+		System.out.println("Digite o número do funcionário: ");
+		matricula = sc.nextInt();
+		System.out.println("Qual o seu número de horas trabalhadas? ");
+		horasTrabalhadas = sc.nextInt();
+		System.out.println("Qual o valor da sua hora trabalhada? ");
+		valorHora = sc.nextDouble();
+		
+		salario = horasTrabalhadas * valorHora;
+		
+		System.out.printf("O funcionário, matrícula %d, receberá o salário R$ %.2f%n ", matricula, salario);
+		
+		sc.close();
+		
+	}
+
+}

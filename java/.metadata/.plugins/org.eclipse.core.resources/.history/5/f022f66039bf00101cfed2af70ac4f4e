@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class exercicioIniciante05 {
+
+	public static void main(String[] args) {
+		// EXERCÍCIO 5
+		// Fazer um programa para ler 			(Scanner)
+		//		o código de uma peça 1, 		(cod1)
+		//		o número de peças 1, 			(qtp1)
+		//		o valor unitário de cada peça 1,(unp1)
+		//		o código de uma peça 2,			(cod2)
+		//		o número de peças 2 e			(qtp2)
+		//		o valor unitário de cada peça 2.(qtp2)
+		// Calcule e mostre o valor a ser pago. (pagar)
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int cod1, cod2, qtp1, qtp2;
+		double unp1, unp2;
+
+	}
+
+}

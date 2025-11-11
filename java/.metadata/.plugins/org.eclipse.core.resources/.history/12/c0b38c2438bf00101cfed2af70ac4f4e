@@ -1,0 +1,25 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class exercicioIniciante04 {
+
+	public static void main(String[] args) {
+		// EXERCÍCIO 4
+		// Fazer um programa que leia (Scanner)
+		// 		o número de um funcionário (num),
+		// 		seu número de horas trabalhadas (horasTrabalhadas),
+		//		o valor que recebe por hora e (valorHora)
+		//		calcula o salário desse funcionário. (salario)
+		// A seguir, mostre o número e o salário do funcionário, com duas casas decimais. (Locale %.2f%n)
+		
+		Locale.setDefault(Locale.US);;
+		Scanner sc = new Scanner(System.in);
+		
+		int num, horasTrabalhadas;
+		double valorHora, salario;
+		
+		sc.close();
+		
+	}
+
+}
