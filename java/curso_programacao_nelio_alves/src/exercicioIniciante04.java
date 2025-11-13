@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class exercicioIniciante04 {
 
 	public static void main(String[] args) {
-		// EXERCÍCIO 4
+		// EXERCÍCIO 4 - Estrutura Sequencial 
 		// Fazer um programa que leia (Scanner)
 		// 		o número de um funcionário (num),
 		// 		seu número de horas trabalhadas (horasTrabalhadas),

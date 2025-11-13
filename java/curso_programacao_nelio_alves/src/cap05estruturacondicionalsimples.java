@@ -1,5 +1,5 @@
 
-public class sessao05estruturacondicionalsimples {
+public class cap05estruturacondicionalsimples {
 
 	public static void main(String[] args) {
 		

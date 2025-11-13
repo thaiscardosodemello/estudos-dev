@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class sessao05operadorescumulativa {
+public class cap05operadorescumulativa {
 
 	public static void main(String[] args) {
 		// Uma operadora de telefonia cobra R$ 50.00 por um plano básico que dá direito a 100 minutos de telefone.

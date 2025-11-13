@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class exercicioIniciante02 {
 
 	public static void main(String[] args) {
-		// EXERCÍCIO 2
+		// EXERCÍCIO 2 - Estrutura Sequencial 
 		// Faça um programa para ler o valor do raio de um círculo,
 		// e depois mostrar o valor da área deste círculo com quatro casas decimais(double) conforme exemplos.
 		//

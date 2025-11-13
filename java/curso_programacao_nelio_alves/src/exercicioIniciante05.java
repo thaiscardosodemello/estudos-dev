@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class exercicioIniciante05 {
 
 	public static void main(String[] args) {
-		// EXERCÍCIO 5
+		// EXERCÍCIO 5 - Estrutura Sequencial 
 		// Fazer um programa para ler 			(Scanner)
 		//		o código de uma peça 1, 		(cod1)
 		//		o número de peças 1, 			(qtp1)

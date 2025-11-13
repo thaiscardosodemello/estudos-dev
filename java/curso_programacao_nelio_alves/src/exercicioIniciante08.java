@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class exercicioIniciante08 {
 
 	public static void main(String[] args) {
-		// EXERCÍCIO 8
+		// EXERCÍCIO 2 - Estrutura Condicional (if-else)
 		// Fazer um programa para ler um número inteiro
 		// e dizer se este número é par ou ímpar
 		

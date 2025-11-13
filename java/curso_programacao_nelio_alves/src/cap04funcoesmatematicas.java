@@ -1,5 +1,5 @@
 
-public class sessao04funcoesmatematicas {
+public class cap04funcoesmatematicas {
 	public static void main(String[] args) {
 		
 		double x = 3.0;

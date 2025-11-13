@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sessao05expressaocondicionalternaria {
+public class cap05expressaocondicionalternaria {
 
 	public static void main(String[] args) {
 		// EXEMPLO

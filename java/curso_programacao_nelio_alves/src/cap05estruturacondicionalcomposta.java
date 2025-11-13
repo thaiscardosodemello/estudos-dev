@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sessao05estruturacondicionalcomposta {
+public class cap05estruturacondicionalcomposta {
 
 	public static void main(String[] args) {
 		// V: executa só o bloco do if

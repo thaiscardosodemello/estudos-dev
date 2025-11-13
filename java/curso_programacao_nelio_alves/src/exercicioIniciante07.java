@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class exercicioIniciante07 {
 
 	public static void main(String[] args) {
-		// EXERCÍCIO 7
+		// EXERCÍCIO 1 - Estrutura Condicional (if-else)
 		// Fazer um programa para ler (Scanner) um número inteiro (int num), e
 		// depois dizer se este número é negativo ou não.
 		

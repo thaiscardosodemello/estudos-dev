@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class exercicioIniciante14 {
 
 	public static void main(String[] args) {
-		// EXERCÍCIO 13
+		// EXERCÍCIO 8 - Estrutura Condicional (if-else)
 		// A moeda deste país é o Rombus, cujo símbolo é o R$.
 		// Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb.
 		// Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.

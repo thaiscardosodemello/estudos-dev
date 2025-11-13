@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class sessao04 {
+public class cap04 {
 
 	public static void main(String[] args) {
 		System.out.println("Olá Mundo!");

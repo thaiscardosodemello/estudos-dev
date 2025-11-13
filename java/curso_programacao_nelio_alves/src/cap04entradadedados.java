@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class sessao04entradadedados {
+public class cap04entradadedados {
 
 	public static void main(String[] args) {
 		

@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class exercicioIniciante13 {
 
 	public static void main(String[] args) {
-		// EXERCÍCIO 12
+		// EXERCÍCIO 7 - Estrutura Condicional (if-else)
 		// Leia 2 valores com uma casa decimal (x e y),
 		// que devem representar as coordenadas de um ponto em um plano.
 		// A seguir, determine qual o quadrante ao qual pertence o ponto,

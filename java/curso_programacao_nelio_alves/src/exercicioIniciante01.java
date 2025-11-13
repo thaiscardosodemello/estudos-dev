@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class exercicioIniciante01 {
 
 	public static void main(String[] args) {
-		// EXERCÍCIO 1
+		// EXERCÍCIO 1 - Estrutura Sequencial  
 		//Faça um programa para ler dois valores inteiros, 
 		//e depois mostrar na tela a soma desses números
 		//com uma, mensagem explicativa, conforme exemplos.

@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class exercicioIniciante09 {
 
 	public static void main(String[] args) {
-		// EXERCÍCIO 9
+		// EXERCÍCIO 3 - Estrutura Condicional (if-else)
 		// Leia 2 valores inteiros (A e B).
 		// Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos",
 		// indicando se os valores lidos são múltiplos entre si.
