@@ -18,12 +18,31 @@ public class exercicioIniciante17 {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		int alcool = 0;
+		int gasolina = 0;
+		int diesel = 0;
+		
 		System.out.println("Qual o tipo de combustível abastecido:");
 		int codigo = sc.nextInt();
 		
 		while ( codigo != 4 ) {
-			if ( codigo == 1 ) {}
+			if ( codigo == 1 ) {
+				alcool++;
+			}
+			else if ( codigo == 2 ) {
+				gasolina++;
+			}
+			else if ( codigo == 3 ) {
+				diesel++;
+			}
+			codigo = sc.nextInt();
 		}
+		
+		System.out.println("Muito obrigado!".toUpperCase());
+		System.out.println("Álcool: " + alcool);
+		System.out.println("Gasolina: " + gasolina);
+		System.out.println("Diesel: " + diesel);
+		
 		sc.close();
 	}
 
